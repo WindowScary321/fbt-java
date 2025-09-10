@@ -1,4 +1,4 @@
-package github.windowscary321.bai1;
+package bai1;
 
 import java.util.Scanner;
 
@@ -6,9 +6,9 @@ public class ScannerTest {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in); //thêm dòng này và scanner.close() ở cuối để sử dụng scanner.
 //VD0 :) (tính diện tích hình chữ nhật)
-        double width = 0;
-        double height = 0;
-        double area = 0;
+        double width;
+        double height;
+        double area;
 
         System.out.print("Chiều rộng: ");
         width = scanner.nextDouble();

@@ -1,4 +1,4 @@
-package github.windowscary321.bai1;
+package bai1;
 
 public class Variables {
     public static void main(String[] args){
