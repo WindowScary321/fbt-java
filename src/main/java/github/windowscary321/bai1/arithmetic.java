@@ -1,3 +1,5 @@
+package github.windowscary321.bai1;
+
 public class arithmetic {
     public static void main(String[] args){
         int x = 10;
