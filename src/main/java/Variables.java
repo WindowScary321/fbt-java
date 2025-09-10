@@ -1,5 +1,5 @@
 public class Variables {
-    public static void main(String[]_ags){
+    public static void main(String[] args){
 
         //Biễn mẫu
         int age = 30;
