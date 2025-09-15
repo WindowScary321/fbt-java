@@ -32,8 +32,8 @@ public class proCharacter {
 
         System.out.println("Tống số là: "+ digits);
         System.out.println("Tổng chữ là: "+ kitu);
-        System.out.println("Tổng chứ in hoa: "+ lowChar);
-        System.out.println("Tổng chữ thường: "+ upChar);
+        System.out.println("Tổng chứ in hoa: "+ upChar);
+        System.out.println("Tổng chữ thường: "+ lowChar);
         System.out.println("Tổng số kí tự: "+ spChar);
 
 
