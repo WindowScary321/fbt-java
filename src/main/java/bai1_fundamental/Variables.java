@@ -1,4 +1,4 @@
-package bai1;
+package bai1_fundamental;
 
 public class Variables {
     public static void main(String[] args){
