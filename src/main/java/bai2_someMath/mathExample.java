@@ -24,7 +24,8 @@ public class mathExample {
 //        System.out.println(result);
 
 
-/// CÁC PHÉP TOÁN CƠ BẢN (TÍNH DIỆN TÍCH TAM GIÁC VUÔNG)
+/// CÁC PHÉP TOÁN CƠ BẢN
+/// BÀI 1: TÍNH DIỆN TÍCH TAM GIÁC VUÔNG
 //        double a;
 //        double b;
 //        double c;
@@ -35,7 +36,22 @@ public class mathExample {
 //
 //        System.out.println(c);
 
+/// BÀI 2: TÍNH CHU VI, DIỆN TÍCH VÀ THỂ TÍCH HÌNH TRÒN
+        double radius;
+        double circumference;
+        double area;
+        double volume;
 
+        System.out.print("Hãy nhập bán kính: ");
+        radius = scanner.nextDouble();
+
+        circumference = 2 * radius * Math.PI;
+        area = Math.pow(radius, 2) * Math.PI;
+        volume = Math.pow(radius, 3) * Math.PI * (4.0/3.0);
+
+        System.out.printf("Chu vi của hình tròn là: %.2f\n", circumference);
+        System.out.printf("Diện tích của hình tròn là: %.2f\n", area);
+        System.out.printf("Thể tích của hình tròn là: %.2f\n", volume);
 
 
         scanner.close();
