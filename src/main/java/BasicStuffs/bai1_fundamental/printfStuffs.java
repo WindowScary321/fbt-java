@@ -1,4 +1,4 @@
-package bai1_fundamental;
+package BasicStuffs.bai1_fundamental;
 
 public class printfStuffs {
     public static void main(String[] args) {
