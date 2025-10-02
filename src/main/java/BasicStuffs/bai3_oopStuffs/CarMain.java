@@ -1,7 +1,10 @@
 package BasicStuffs.bai3_oopStuffs;
 
+import java.util.Scanner;
+
 public class CarMain {
     public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
         Car car = new Car();
         Car car1 = new Car();
 
