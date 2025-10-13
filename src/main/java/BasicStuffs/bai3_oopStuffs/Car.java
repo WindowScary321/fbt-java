@@ -41,7 +41,7 @@ public class Car {
     public int getEnginePower() {
         return enginePower;
     }
-    public void setEnginePower(int enginePower) {
+    public void setEnginePower(int enginePower)  {
         this.enginePower = enginePower;
     }
     public boolean isConvertible() {
