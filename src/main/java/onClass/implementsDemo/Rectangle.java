@@ -1,4 +1,4 @@
-package onClass.interfaceDemo;
+package onClass.implementsDemo;
 
 public class Rectangle implements Shape{
     private float width;

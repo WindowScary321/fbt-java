@@ -1,4 +1,4 @@
-package onClass.interfaceDemo;
+package onClass.implementsDemo;
 
 import java.util.Scanner;
 

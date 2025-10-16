@@ -1,4 +1,4 @@
-package onClass.interfaceDemo;
+package onClass.implementsDemo;
 
 public class Triangle implements Shape{
     private float a;

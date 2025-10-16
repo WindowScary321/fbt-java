@@ -1,4 +1,4 @@
-package onClass.interfaceDemo;
+package onClass.implementsDemo;
 
 public class Circle implements Shape {
     private float radius;
