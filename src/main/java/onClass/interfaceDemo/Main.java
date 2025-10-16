@@ -19,6 +19,14 @@ public class Main {
         Shape hinhchunhat = new Rectangle(inputWidth, inputLength);
         hinhchunhat.display();
 
+        System.out.println("");
+        System.out.printf("Input 3 shapes (eg: 3 4 5): ");
+        float inputSideA = scanner.nextFloat();
+        float inputSideB = scanner.nextFloat();
+        float inputSideC = scanner.nextFloat();
+        Shape hinhtamgiac = new Triangle(inputSideA, inputSideB, inputSideC);
+        hinhtamgiac.display();
+
 //        Shape hinhtron = new Circle(5.0f);
 //        Shape hinhchunhat = new Rectangle(10.0f, 15.0f);
 //
