@@ -12,6 +12,7 @@ public class CreditCardPayment extends PaymentMethod{
     public double getFee(double amount) {
         return amount * this.feeRate;
     }
+
     @Override
     void pay(double amount) {
         double total = amount + getFee(amount);
@@ -21,6 +22,7 @@ public class CreditCardPayment extends PaymentMethod{
     void refund(double amount) {
         System.out.println("Số tiền trả lại thẻ là: "+ amount+ " đồng.");
     }
+
     @Override
     String getName() {
         return "Thẻ tín dụng";
