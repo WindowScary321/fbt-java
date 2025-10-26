@@ -1,5 +1,4 @@
-package BasicStuffs.bai3_oopStuffs;
-import java.util.Scanner;
+package BasicStuffs.bai3_oopStuffs.easyStuffs;
 
 public class utilsTest {
     public static void main(String[] args) {

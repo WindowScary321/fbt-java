@@ -1,4 +1,4 @@
-package BasicStuffs.bai3_oopStuffs.smalDemo;
+package BasicStuffs.bai3_oopStuffs.easyStuffs.smalDemo;
 
 public class Rectangle {
     private int length = 0;

@@ -1,4 +1,4 @@
-package BasicStuffs.bai3_oopStuffs;
+package BasicStuffs.bai3_oopStuffs.easyStuffs;
 
 import java.util.Scanner;
 

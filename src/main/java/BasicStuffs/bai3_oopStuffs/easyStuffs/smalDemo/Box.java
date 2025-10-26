@@ -1,4 +1,4 @@
-package BasicStuffs.bai3_oopStuffs.smalDemo;
+package BasicStuffs.bai3_oopStuffs.easyStuffs.smalDemo;
 
 public class Box extends Rectangle {
     private int height = 0;
