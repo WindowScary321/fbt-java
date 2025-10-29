@@ -1,4 +1,4 @@
-package BasicStuffs.bai3_oopStuffs.constructor;
+package Basic.bai3_OOP.constructor;
 
 public class Student2 {
     /// Kiểu dữu liệu cơ bản

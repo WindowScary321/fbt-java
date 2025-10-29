@@ -1,4 +1,4 @@
-package BasicStuffs.bai2_someMath;
+package Basic.bai2_Math;
 
 public class ifNested {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package BasicStuffs.bai3_oopStuffs.constructor;
+package Basic.bai3_OOP.constructor;
 
 public class main {
     public static void main (String[] args){

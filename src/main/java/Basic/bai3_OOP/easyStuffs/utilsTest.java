@@ -1,4 +1,4 @@
-package BasicStuffs.bai3_oopStuffs.easyStuffs;
+package Basic.bai3_OOP.easyStuffs;
 
 public class utilsTest {
     public static void main(String[] args) {

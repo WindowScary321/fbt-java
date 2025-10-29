@@ -1,4 +1,4 @@
-package BasicStuffs.bai2_someMath;
+package Basic.bai2_Math;
 
 import java.util.Scanner;
 

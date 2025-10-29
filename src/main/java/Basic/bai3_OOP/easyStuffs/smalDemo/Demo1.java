@@ -1,4 +1,4 @@
-package BasicStuffs.bai3_oopStuffs.easyStuffs.smalDemo;
+package Basic.bai3_OOP.easyStuffs.smalDemo;
 
 public class Demo1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package BasicStuffs.bai1_fundamental;
+package Basic.bai1_Fundamental;
 
 public class stringMethod {
     public static void main (String[] args){
